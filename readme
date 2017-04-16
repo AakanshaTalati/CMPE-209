@@ -1,0 +1,40 @@
+Environment: 
+Python 2.7.* 
+
+Contributing Style Guidelines:
+
+1. 4 Spaces -> No tabs. 
+2. Class names -> CamelCase
+3. methods, variable names -> lower_case_with_under_scores
+
+Required libraries: 
+
+1. pxssh
+
+#TODOs: 
+
+while(true)
+{
+    Test Code
+}
+
+while(work_in_progress)
+{
+    Add logging modules
+}
+
+do
+{
+    1. Add support to send files along with commands. 
+    2. Write a script for a bot to run on the victim. 
+    3. Try to hide the bot on the victim machine. 
+    4. #SuggestionsAreWelcome
+}while(!project_is_complete)
+
+Pick a task and make a branch, once you've completed the task and tested it out. Merge changes into the master. Don't forget to periodically update your local branch with the changes on the master branch. 
+
+
+
+
+Happy Coding!!!!
+
